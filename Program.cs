@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Jul_skit
+namespace RoP2
 {
     class Program
     {
